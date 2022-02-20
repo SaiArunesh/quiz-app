@@ -23,3 +23,11 @@
   flex-direction: column;
   align-items: center;
 }
+
+.score {
+  background-color: var(--info-color);
+  border-radius: 1rem;
+  padding: 2rem;
+  color: #fff;
+  margin: 3rem;
+}
