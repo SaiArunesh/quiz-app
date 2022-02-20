@@ -1,0 +1,16 @@
+.rules-list {
+  background-color: var(--fg-color);
+  color: #fff;
+  max-width: 60%;
+  border-radius: 2rem;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.rules-list li {
+  padding: 1rem 0rem;
+  font-size: 2rem;
+  line-height: 4rem;
+}
