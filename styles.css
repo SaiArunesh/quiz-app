@@ -1,5 +1,7 @@
 @import url("./components/landing-page/landing-page.css");
 @import url("./components/rules/rules.css");
+@import url("./components/question/question.css");
+
 :root {
   --bg-color: #0e131f;
   --fg-color: #19212c;
@@ -9,4 +11,15 @@
   margin: 0;
   border: 0;
   box-sizing: border-box;
+}
+
+.container {
+  background-color: var(--fg-color);
+  color: #fff;
+  max-width: 80%;
+  border-radius: 2rem;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
