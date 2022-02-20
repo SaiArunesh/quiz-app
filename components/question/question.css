@@ -53,3 +53,9 @@
 .btn-fg-color {
   background-color: var(--fg-color);
 }
+
+@media only screen and (max-width: 640px) {
+  .question-container {
+    max-width: 95%;
+  }
+}
