@@ -1,0 +1,7 @@
+@import url("./components/landing-page/landing-page.css");
+
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+}
